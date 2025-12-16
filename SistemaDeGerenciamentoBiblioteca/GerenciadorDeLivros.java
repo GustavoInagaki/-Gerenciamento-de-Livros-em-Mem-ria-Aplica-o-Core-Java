@@ -66,7 +66,6 @@ public class GerenciadorDeLivros {
 	
 	public List<Livro> buscarPorTitulo(String titulo) {
         return colecao.stream()
-                // Ignora maiúsculas/minúsculas e busca por parte do título
                 .filter(l -> l.getTitulo().toLowerCase().contains(titulo.toLowerCase()))
                 .collect(Collectors.toList());
     }
