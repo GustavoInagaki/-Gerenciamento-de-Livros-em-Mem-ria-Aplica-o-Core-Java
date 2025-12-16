@@ -3,7 +3,7 @@
 
 Este projeto é uma aplicação de Console simples, construída em Core Java, que simula um CRUD (Create, Read, Update, Delete) para gerenciamento de uma coleção de livros em memória. Ele foi desenvolvido com o objetivo de consolidar conceitos essenciais da Programação Orientada a Objetos (POO) e do ecossistema de Collections e Streams do Java.
 
-##✨ Conceitos Aplicados
+## Conceitos Aplicados
 O projeto é a materialização de diversos tópicos fundamentais da linguagem Java:
 
 Programação Orientada a Objetos (POO): Utilização de classes (Livro, GerenciadorDeLivros), objetos e o princípio de Encapsulamento (atributos privados com getters e setters).
