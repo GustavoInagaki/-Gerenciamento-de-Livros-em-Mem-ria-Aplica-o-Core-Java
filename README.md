@@ -1,4 +1,4 @@
-Gerenciamento de Livros em Memória: Aplicação Core Java
+#Gerenciamento de Livros em Memória: Aplicação Core Java
 Este projeto é uma aplicação de Console simples, construída em Core Java, que simula um CRUD (Create, Read, Update, Delete) para gerenciamento de uma coleção de livros em memória. Ele foi desenvolvido com o objetivo de consolidar conceitos essenciais da Programação Orientada a Objetos (POO) e do ecossistema de Collections e Streams do Java.
 
 ✨ Conceitos Aplicados
